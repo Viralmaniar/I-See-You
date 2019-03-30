@@ -72,3 +72,5 @@ LinkedIn: https://au.linkedin.com/in/viralmaniar
 Want to contribute? Please fork it and hit up with a pull request.
 
 Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
+
+Special thanks to @cryptomarauder
