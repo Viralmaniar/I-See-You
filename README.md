@@ -1,10 +1,10 @@
 # I-See-You
 
-ISeeYou is a Bash and Javascript tool to find the exact location of the users during social engineering or phishing engagements. Using exact locations an attacker can perform preliminary reconnaissance which will help them in performing further targeted attacks.
+ISeeYou is a Bash and Javascript tool to find the exact location of the users during social engineering or phishing engagements. Using exact location coordinates an attacker can perform preliminary reconnaissance which will help them in performing further targeted attacks. 
 
 <B>Note:</B><Br>
 - This tool does not require any additional software to perform phishing attacks.
-- User can expose their local servers to the Internet and decode the locations looking at the log file.
+- User can expose yout local servers to the Internet and decode the location coordinates by looking at the log file.
   
 <B><I>This project must not be used for illegal purposes or for stalking people or hacking into system where you do not have permission, it is strictly for educational purposes and for people to experiment with.</I></B>
   
@@ -43,6 +43,9 @@ Once the targeted users allows location permission, malicious user will receive 
 Using `https://maps.google.com` you can convert the `longitude and latitude` to an exact location:
 
 ![image](https://user-images.githubusercontent.com/3501170/55271991-4e4da300-530a-11e9-91ec-2fb83ef46461.png)
+
+# Copying Longitude and Latitude numbers from Xterm screens
+
 
 
 # Questions?
