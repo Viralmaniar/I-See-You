@@ -46,7 +46,18 @@ Using `https://maps.google.com` you can convert the `longitude and latitude` to 
 
 # Copying Longitude and Latitude numbers from Xterm screens
 
+To copy between xterm and other programs - This would allow user to select numbers to be copied to the clipboard.
+1. Add to the file ~/.Xresources (or create)
 
+2.
+<pre>
+XTerm*selectToClipboard: true
+</pre>
+3. Then run the command:
+<pre>
+xrdb -merge ~/.Xresources
+</pre>
+4. Restart xterm.
 
 # Questions?
 
