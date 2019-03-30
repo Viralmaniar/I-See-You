@@ -6,7 +6,7 @@ ISeeYou is a Bash and Javascript tool to find the exact location of the users du
 - This tool does not require any additional software to perform phishing attacks.
 - User can expose yout local servers to the Internet and decode the location coordinates by looking at the log file.
   
-<B><I>This project must not be used for illegal purposes or for stalking people or hacking into system where you do not have permission, it is strictly for educational purposes and for people to experiment with.</I></B>
+<B><I>This project must not be used for illegal purposes for stalking people or hacking into system where you do not have permission, it is strictly for educational purposes and for people to experiment with.</I></B>
   
 Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
 
