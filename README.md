@@ -4,6 +4,13 @@ ISeeYou is a Bash and Javascript tool to find the exact location of the users du
 
 Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
 
+# How to install?
+
+<pre>
+git clone https://github.com/Viralmaniar/I-See-You.git
+cd I-See-You
+chmod u+x ISeeYou.sh
+</pre>
 # Setup
 
 - This tool does not require any additional software to perform phishing attacks.
@@ -13,7 +20,7 @@ Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarVi
 
 # Questions?
 
-Twitter: https://twitter.com/maniarviral
+Twitter: https://twitter.com/maniarviral <br>
 LinkedIn: https://au.linkedin.com/in/viralmaniar
 
 # Contribution & License
