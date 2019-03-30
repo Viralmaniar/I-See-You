@@ -58,7 +58,7 @@ XTerm*selectToClipboard: true
 3. Then run the command:
 <pre>
 xrdb -merge ~/.Xresources
-</pre>
+</pre>voidengineer
 4. Restart xterm.
 
 # Questions?
@@ -73,4 +73,6 @@ Want to contribute? Please fork it and hit up with a pull request.
 
 Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
 
-Special thanks to @cryptomarauder
+# Thanks
+
+Special thanks to cryptomarauder aka voidengineer
