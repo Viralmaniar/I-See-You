@@ -2,6 +2,10 @@
 
 ISeeYou is a Bash and Javascript tool to find the exact location of the users during social engineering or phishing engagements. Using exact locations an attacker can perform preliminary reconnaissance which will help them in performing further targeted attacks.
 
+<B>Note:</B><Br>
+- This tool does not require any additional software to perform phishing attacks.
+- User can expose their local servers to the Internet and decode the locations looking at the log file.
+  
 Any suggestions or ideas for this tool are welcome - just tweet me on [@ManiarViral](https://twitter.com/maniarviral)
 
 # How to install?
@@ -12,12 +16,10 @@ cd I-See-You
 chmod u+x ISeeYou.sh
 </pre>
 ![image](https://user-images.githubusercontent.com/3501170/55271795-e9447e00-5306-11e9-8a52-30251d1fc156.png)
-# Setup
 
-- This tool does not require any additional software to perform phishing attacks.
-- User can expose their local servers to the Internet and decode the locations looking at the log file
+# Screenshots
 
-# Screenshot
+
 
 # Questions?
 
