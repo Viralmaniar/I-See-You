@@ -58,7 +58,7 @@ XTerm*selectToClipboard: true
 3. Then run the command:
 <pre>
 xrdb -merge ~/.Xresources
-</pre>voidengineer
+</pre>
 4. Restart xterm.
 
 # Questions?
